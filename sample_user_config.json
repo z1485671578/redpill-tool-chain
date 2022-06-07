@@ -3,7 +3,7 @@
         "pid": "0x5571",
         "vid": "0x0781",
         "sn": "1750PDN086600",
-        "mac1": "001132123456"
+        "mac1": ""
         "DiskIdxMap": "00"  
         "SataPortMap": "1"
         "SasIdxMap": "0"
